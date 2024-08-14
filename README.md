@@ -1,2 +1,2 @@
 # Photo-Gallery
-Photo Gallery is an gallery web-application that can take images inputs, display images and delete them just like a mobile gallery Application
+Photo Gallery is a gallery web application that can take image inputs, display images, and delete them just like a mobile gallery Application
